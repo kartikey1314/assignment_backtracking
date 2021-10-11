@@ -1,0 +1,11 @@
+pre {
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+user agent stylesheet
+pre {
+    display: block;
+    font-family: monospace;
+    white-space: pre;
+    margin: 1em 0px;
+}
